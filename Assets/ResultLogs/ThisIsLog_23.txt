@@ -1,0 +1,3 @@
+ Recognized: Thunder, Score: 0.8854146
+Recognized: Thunder, Score: 0.5330944
+

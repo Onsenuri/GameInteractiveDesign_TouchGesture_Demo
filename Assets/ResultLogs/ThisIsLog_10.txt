@@ -1,0 +1,18 @@
+ Recognized: Thunder, Score: 0.7682054
+Recognized: Thunder, Score: 0.7813283
+Recognized: FireBall, Score: 0.8200704
+Recognized: StoneBall, Score: 0.8187487
+Recognized: FireBall, Score: 0.8540913
+Recognized: Thunder, Score: 0.814792
+Recognized: Thunder, Score: 0.7749464
+Recognized: Thunder, Score: 0.4360482
+Recognized: StoneBall, Score: 0.586935
+Recognized: StoneBall, Score: 0.8830581
+Recognized: FireBall, Score: 0.8381272
+Recognized: FireBall, Score: 0.8232082
+Recognized: Thunder, Score: 0.8875776
+Recognized: Thunder, Score: 0.9541237
+Recognized: FireBall, Score: 0.8150393
+Recognized: FireBall, Score: 0.8841016
+Recognized: FireBall, Score: 0.8643092
+

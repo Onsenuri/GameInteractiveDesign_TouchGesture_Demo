@@ -1,0 +1,5 @@
+ Recognized: Thunder, Score: 0.8597293
+Recognized: FireBall, Score: 0.8582603
+Recognized: Thunder, Score: 0.9589114
+Recognized: FireBall, Score: 0.925708
+
